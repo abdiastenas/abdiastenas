@@ -1,4 +1,4 @@
-### Hi there 👋, Abdias Tenas
+### Hey, nice to meet ya! 👋 Abdias Tenas here.
 #### Javascript Developer and Motion Designer
 ![Javascript Developer and Motion Designer](https://media-exp1.licdn.com/dms/image/C5616AQEQ1kP7ZbUcnw/profile-displaybackgroundimage-shrink_350_1400/0/1647404459553?e=1653523200&v=beta&t=oxYFc2NlDKGK6w7kbBYGvNrP0tGnK6VmIJTUWX-TCAk)
 
@@ -17,7 +17,7 @@ Things I code with:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working on Secrets Box API Challenge 
+- 🔭 I’m currently working on [Secrets Box API Challenge](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week10/assignments/API-4.md)
 - 🌱 I’m currently learning I’m currently learning Javascript, Typescript, React and NodeJS. 
 - 💬 Ask me about JS, CSS and Motion Design. 
 - 📫 How to reach me: air.tenas@gmail.com 

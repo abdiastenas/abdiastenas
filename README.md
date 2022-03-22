@@ -18,8 +18,8 @@ Things I code with:
 </p>
 
 - 🔭 I’m currently working on [Secrets Box API Challenge](https://github.com/corecodeio/bootcamp-from-scratch/blob/main/src/technologies/2022/week10/assignments/API-4.md)
-- 🌱 I’m currently learning I’m currently learning Javascript, Typescript, React and NodeJS. 
-- 💬 Ask me about JS, CSS and Motion Design. 
+- 🌱 I’m currently learning Javascript, Typescript, React and NodeJS. 
+- 💬 Ask me about JS, React, CSS, NodeJS and Motion Design. 
 - 📫 How to reach me: air.tenas@gmail.com 
 - ⚡ Fun fact: Little did I knew, I was using JS to make animations inside After Effects and found out until 2 years ago. I have 12 years doing motion design. 🤷🏽 
 

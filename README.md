@@ -2,7 +2,6 @@
 #### Javascript Developer and Motion Designer
 ![Javascript Developer and Motion Designer](https://media-exp1.licdn.com/dms/image/C5616AQEQ1kP7ZbUcnw/profile-displaybackgroundimage-shrink_350_1400/0/1647404459553?e=1653523200&v=beta&t=oxYFc2NlDKGK6w7kbBYGvNrP0tGnK6VmIJTUWX-TCAk)
 
-[<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/github.svg' alt='github' height='30' >](https://github.com/abdiastenas)
 [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/linkedin-square.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/abdiastenas/) [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/instagram.svg' alt='instagram' height='30' filter='white'>](https://www.instagram.com/abdiastenas/)  [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/twitter-square.svg' alt='twitter' height='30'>](https://twitter.com/abdias_tenas)  [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/youtube-play.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/UCbiq0I1QS2Sr_bkQcbwviuQ)  
 
 

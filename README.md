@@ -30,6 +30,6 @@ Things I code with:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdiastenas)  
 
-![GitHub metrics](https://metrics.lecoq.io/abdiastenas)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/abdiastenas) -->
 
 ![Profile views](https://gpvc.arturio.dev/abdiastenas)  

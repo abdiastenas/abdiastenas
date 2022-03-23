@@ -22,7 +22,7 @@ Things I code with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true)](https://github.com/abdiastenas/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdiastenas&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdiastenas&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdiastenas)  
 

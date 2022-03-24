@@ -20,11 +20,12 @@ Things I code with:
 - ⚡ Fun fact: Little did I knew, I was using JS to make animations inside After Effects and found out until 2 years ago. I have 12 years doing motion design. 🤷🏽 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true)](https://github.com/abdiastenas/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true" />
+<!-- (https://github.com/abdiastenas/github-readme-stats) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdiastenas&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdiastenas)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdiastenas)   -->
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/abdiastenas) -->
 

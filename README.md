@@ -7,7 +7,7 @@
 Things I code with:
 <p>
   <img alt="JavaScript" src='https://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black' />
-  <img alt="Python" src='https://img.shields.io/badge/Python-grey?style=flat-square&logo=python&logoColor=yello&color=blue' />
+  <img alt="Python" src='https://img.shields.io/badge/Python-grey?style=flat-square&logo=python&logoColor=yellow&color=blue' />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 

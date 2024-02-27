@@ -7,9 +7,8 @@
 Things I code with:
 <p>
   <img alt="JavaScript" src='https://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black' />
-  <img alt="Python" src='https://img.shields.io/badge/-Python-f7e018?style=flat-square&logo=pyhton&logoColor=light-blue' />
+  <img alt="Python" src='https://img.shields.io/badge/Python-grey?style=flat-square&logo=python&logoColor=yello&color=blue' />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 - 🔭 I’m currently studying Systems Engineering (CS degree equivalent) at Universidad Galileo.

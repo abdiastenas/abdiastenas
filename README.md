@@ -1,5 +1,5 @@
 ### Hey, nice to meet ya! 👋 Abdias Tenas here.
-#### Javascript Developer and Motion Designer
+#### Genuine Developer and sort of a Motion Designer
 
 [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/linkedin-square.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/abdiastenas/) [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/instagram.svg' alt='instagram' height='30' filter='white'>](https://www.instagram.com/abdiastenas/)  [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/twitter-square.svg' alt='twitter' height='30'>](https://twitter.com/abdias_tenas)  [<img src='https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/white/svg/youtube-play.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/UCbiq0I1QS2Sr_bkQcbwviuQ)  
 
